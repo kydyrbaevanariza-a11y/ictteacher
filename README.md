@@ -1,0 +1,2 @@
+# ictteacher
+for циклі
