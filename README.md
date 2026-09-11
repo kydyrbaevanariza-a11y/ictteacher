@@ -1,2 +1,2 @@
 # ictteacher
-for циклі
+index.html
